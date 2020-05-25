@@ -13,7 +13,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-
+          Contact us at <a href="mailto:azonegamescompany@gmail.com">azonegamescompany@gmail.com</a>
         </p>
       </main>
 
